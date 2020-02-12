@@ -1,5 +1,4 @@
 require 'rails_helper'
-
 # describe 'navigate' do
 #   before do
 #     @article = Article.create(title: "My Article", description: "My article desc")
